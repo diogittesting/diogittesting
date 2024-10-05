@@ -1,16 +1,9 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=diogittesting.diogittesting" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=davimdolabella.davimdolabella" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=0562A6FF&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Davi+Dolabella!;" />
 </h1>
-
-<h3 align="center">A developer from Brazil 🇧🇷!</h3>
-
-<br/>
-
 <div align="center">
- 
- 🔭 I’m currently in **a Bootcamp**
  
  🌱 I’m currently learning **React, Node and Python**
 
@@ -30,7 +23,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/diogittesting/diogittesting/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/davimdolabella/davimdolabella/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
@@ -48,7 +41,7 @@
     <br/>
     <hr/>
     <div align="center">
-        <h3>Contact Me!</h3>
+        <h3>Contact Me</h3>
         <span>✉ davimdolabella.p@gmail.com</span>
         <br />
         <br/>
@@ -60,8 +53,3 @@
 
 <hr/>
 
-<br/>
-
-
-
-<br/>
